@@ -1,4 +1,4 @@
 # Resume
 
-This is a love link 
+This is a live link 
 https://srikrishnas.github.io/Resume/resume
